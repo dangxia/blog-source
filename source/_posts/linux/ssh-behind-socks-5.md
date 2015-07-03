@@ -18,3 +18,6 @@ ssh -o 'ProxyCommand nc -x xxx.xxx.xxx.xxx:1080 -X 5 -Pruser %h %p' root@xxx.xxx
 ## corkscrew
 [corkscrew](http://wiki.kartbuilding.net/index.php/Corkscrew_-_ssh_over_https)只支持http(s)，未尝试。
 <!--more-->
+
+## xshell
+最终使用crossover+xshell配置proxy (**记得xshell的输入为UTF-8,不然键盘不能输入**)
