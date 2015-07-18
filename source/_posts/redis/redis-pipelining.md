@@ -1,6 +1,7 @@
 title: Request/Response protocols and RTT
 date: 2015-07-02 10:27:58
 tags: [redis]
+category : redis
 ---
 Redis is a TCP server using the client-server model and what is called a Request/Response protocol.
 This means that usually a request is accomplished with the following steps:

@@ -1,6 +1,6 @@
 title: Clojure 编程-读书笔记1(进入Clojure仙境)
 date: 2015-06-27 14:01:17
-tags: [读书笔记]
+tags: [读书笔记,clojure]
 category : clojure
 ---
 >**列表 在书中一般标识函数调用，而不是数据结构。刚开始没注意，看的很混乱。**

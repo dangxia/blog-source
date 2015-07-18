@@ -1,6 +1,7 @@
 title: redis-conf
 date: 2015-06-30 17:49:02
 tags: redis
+category : redis
 ---
 Redis is able to start without a configuration file using a built-in default configuration, however this setup is only recommended for testing and development purposes.
 The proper way to configure Redis is by providing a Redis configuration file, usually called redis.conf.

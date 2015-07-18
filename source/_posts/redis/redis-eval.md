@@ -1,6 +1,7 @@
 title: redis-eval
 date: 2015-07-03 15:15:30
 tags: [redis]
+category : redis
 ---
 `EVAL script numkeys key [key ...] arg [arg ...]`
 ## Introduction to EVAL

@@ -1,6 +1,7 @@
 title: Clojure Programming读书笔记
 date: 2015-01-06 23:21:49
 tags: [clojure]
+category : clojure
 ---
 ##	a homoiconic language.
 ********************************

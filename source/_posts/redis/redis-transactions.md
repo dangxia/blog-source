@@ -1,6 +1,7 @@
 title: redis-transactions
 date: 2015-07-03 10:40:36
 tags: [redis]
+category : redis
 ---
 [MULTI][MULTI], [EXEC][EXEC], [DISCARD][DISCARD] and [WATCH][WATCH] are the foundation of transactions in Redis. They allow the execution of a group of commands in a single step, with two important guarantees:
 + All the commands in a transaction are serialized and executed sequentially. It can never happen that a request issued by another client is served **in the middle of** the execution of a Redis transaction. This guarantees that the commands are executed as a single isolated operation.
