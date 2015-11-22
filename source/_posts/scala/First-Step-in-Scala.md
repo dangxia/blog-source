@@ -25,7 +25,7 @@ def max2(x: Int, y: Int) = {
 ```
 + style-3
 ```scala
-//function body is single line
+//function body is single line,leave off the curly braces
 def max3(x: Int, y: Int) = if (x > y) x else y
 ```
 
