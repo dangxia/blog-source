@@ -18,3 +18,12 @@ english: [english]
 + [quite /kwaɪt/](#v) adv. 很；相当；完全
 + [nimbus /'nɪmbəs/](#v) n. （人和物产生的）灵气；光轮；[气象] 雨云；光辉灿烂的气氛
 + [supervisor /'suːpəvaɪzə/](#v) n. 监督人，[管理] 管理人；检查员
++ [export /ˈekspɔːt/](#v) n. 输出，出口；出口商品
++ [expert /'ekspɜːt/](#v) adj. 熟练的；内行的；老练的
++ [progress /'prəʊgres/](#v) n. 进步，发展；前进
++ [process /'prəʊses/](#v) vt. 处理；加工 n. 过程，进行；方法，步骤；作用；程序；推移
++ [possession /pə'zeʃ(ə)n/](#v) n. 拥有；财产；领地；自制；着迷
++ [poison /'pɒɪz(ə)n/](#v) vt. 污染；使中毒，放毒于；败坏；阻碍 vi. 放毒，下毒 n. 毒药，毒物；酒；有毒害的事物；[助剂] 抑制剂
++ [prison /'prɪz(ə)n/](#v) n. 监狱；监禁；拘留所
++ [expect /ɪk'spekt/](#v) vt. 期望；指望；认为；预料
++ [except /ɪk'sept/](#v) vt. 不计；把…除外
