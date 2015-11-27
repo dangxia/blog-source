@@ -27,3 +27,5 @@ english: [english]
 + [prison /'prɪz(ə)n/](#v) n. 监狱；监禁；拘留所
 + [expect /ɪk'spekt/](#v) vt. 期望；指望；认为；预料
 + [except /ɪk'sept/](#v) vt. 不计；把…除外
++ [extensibility /ɪk,stɛnsə'bɪləti/](#v) n. 展开性；可延长性
++ [vertex /'vɜːteks/](#v) n. 顶点；[昆] 头顶；[天] 天顶
