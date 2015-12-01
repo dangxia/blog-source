@@ -10,3 +10,4 @@ tags: [history]
 + https://zh.wikipedia.org/wiki/%E5%AE%8C%E5%85%A8%E5%9C%96
 + http://mathworld.wolfram.com/Indegree.html
 + https://backlogtool.com/git-guide/tw/stepup/stepup7_4.html
++ http://www.flyne.org/article/216
