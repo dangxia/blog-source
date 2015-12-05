@@ -19,7 +19,7 @@ void putBatch(Map<String, Object> map, int timeoutSeconds);
 + com.alibaba.jstorm.cache.TimeoutMemCache
 + com.alibaba.jstorm.cache.RocksDBCache
 + com.alibaba.jstorm.cache.RocksTTLDBCache
-
+<!--more-->
 ### TimeoutMemCache
 `TreeMap<Integer, TimeCacheMap<String, Object>> cacheWindows`维持了多个timeout的TimeCacheMap:
 + default.cache.timeout default:60

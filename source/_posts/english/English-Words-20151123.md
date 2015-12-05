@@ -1,5 +1,5 @@
 title: English-Words-20151121
-date: 2015-11-21 17:46:01
+date: 2015-11-23 17:46:01
 english: [english]
 ---
 + [notation /nəʊ'teɪʃ(ə)n/](#v) n. 符号；乐谱；注释；记号法
@@ -29,3 +29,4 @@ english: [english]
 + [except /ɪk'sept/](#v) vt. 不计；把…除外
 + [extensibility /ɪk,stɛnsə'bɪləti/](#v) n. 展开性；可延长性
 + [vertex /'vɜːteks/](#v) n. 顶点；[昆] 头顶；[天] 天顶
++ [disruptor /dɪsˈrʌptə/](#v) n. 破坏者，分裂者

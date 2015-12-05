@@ -10,3 +10,9 @@ tags: [history]
 + https://zh.wikipedia.org/wiki/%E5%AE%8C%E5%85%A8%E5%9C%96
 + http://mathworld.wolfram.com/Indegree.html
 + https://backlogtool.com/git-guide/tw/stepup/stepup7_4.html
++ http://www.cnblogs.com/fxjwind/p/3182351.html
++ http://ifeve.com/disruptor/
++ http://www.yworks.com/
++ http://www.cnblogs.com/xishuai/p/iddd-cqrs-and-eda.html
++ http://www.umlchina.com/book/softmeth.htm
++ http://www.cnblogs.com/hseagle/p/3756862.html
