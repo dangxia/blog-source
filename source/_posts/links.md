@@ -16,3 +16,10 @@ tags: [history]
 + http://www.cnblogs.com/xishuai/p/iddd-cqrs-and-eda.html
 + http://www.umlchina.com/book/softmeth.htm
 + http://www.cnblogs.com/hseagle/p/3756862.html
++ http://www.flyne.org/article/216
++ http://www.cnblogs.com/hseagle/p/3756862.html
++ http://www.sqlparty.com/mapreduce%E5%BA%94%E7%94%A8%E4%B8%ADcombinefileinputformat%E5%8E%9F%E7%90%86%E4%B8%8E%E7%94%A8%E6%B3%95/
++ http://segmentfault.com/a/1190000002680804
++ http://blog.csdn.net/dizzthxl/article/details/8498833
++ http://www.cnblogs.com/basecn/p/4288456.html
++ http://blog.jpush.cn/redis-twemproxy-benchmark/
