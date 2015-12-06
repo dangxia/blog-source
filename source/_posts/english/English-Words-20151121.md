@@ -1,6 +1,6 @@
 title: English-Words-20151121
 date: 2015-11-21 17:46:01
-english: [english]
+category: [english]
 ---
 + [encourage [ɪn'kɜːrɪdʒ]](#v) 发展; 激励; 促进
 + [interpreter [ɪn'tɜːprɪtɚ]](#v) 作口译的人,解释器(C)
@@ -19,6 +19,7 @@ english: [english]
 + [semicolon ['sɛmɪkolən]](#v) 分号
 + [mechanism ['mɛkənɪzəm]](#v) 机制；原理，途径；进程；机械装置；技巧
 + [primitive ['prɪmətɪv]](#v)  原始的，远古的；简单的，粗糙的
++ [fundamental /fʌndə'ment(ə)l/](#v) adj. 基本的，根本的 n. 基本原理；基本原则
 + [correspond [,kɔrə'spɑnd]](#v) 符合，一致；相应；通信
 + [sufficient [sə'fɪʃnt]](#v) 足够的；充分的
 + [variable ['vɛrɪəbl]](#v) 变量的；可变的；易变的，多变的；变异的，
@@ -28,6 +29,7 @@ english: [english]
 + [infer [ɪn'fɜː]](#v) 推断；推论
 + [literal ['lɪtərəl]](#v) 文字的；逐字的；无夸张的,字面量(C)
 + [explicit [ɪk'splɪsɪt]](#v) 明确的；清楚的；直率的；详述的
++ [implicit /ɪm'plɪsɪt/](#v) adj. 含蓄的；暗示的；盲从的
 + [annotation [,æno'teʃən]](#v) 注释；注解；释文
 + [intend [ɪn'tɛnd]](#v) 打算；想要；意指
 + [contrast ['kɑntræst]](#v) 对比；形成对照
@@ -37,9 +39,12 @@ english: [english]
 + [multiple ['mʌltəpl]](#v)
 + [respond [rɪ'spɑnd]](#v) 回答；作出反应；承担责任
 + [precede [prɪ'sid]](#v) 领先，在…之前；优于，高于
++ [precedence /'presɪd(ə)ns/](#v) （在时间、顺序、行列等上）领先于某人[某事物]的权利; 优先权
 + [parameter [pə'ræmɪtɚ] ](#v) 参数；系数；参量
 + [demonstrate ['dɛmən'stret]](#v) 证明；展示；论证
 + [ternary ['tɜːnəri]](#v) [数] 三元的，三重的；[数] 三进制的；第三的
++ [binary /'baɪnərɪ/](#v) adj. [数] 二进制的；二元的，二态的
++ [unary /'juːnərɪ/](#v) adj. [数] 一元的
 + [recursive [rɪ'kɜːsɪv]](#v) [数] 递归的；循环的
 + [alternatively [ɔl'tɜːnətɪvli]](#v) 非此即彼；二者择一地；作为一种选择
 + [indicate ['ɪndɪket]](#v) 表明；指出；预示；象征

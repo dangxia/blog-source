@@ -1,6 +1,6 @@
-title: English-Words-20151121
+title: English-Words-20151123
 date: 2015-11-23 17:46:01
-english: [english]
+category: [english]
 ---
 + [notation /nəʊ'teɪʃ(ə)n/](#v) n. 符号；乐谱；注释；记号法
 + [infix /ɪn'fɪks/](#v) vt. 把…印入；把…插进 n. [计] 中缀；插入词
@@ -30,3 +30,12 @@ english: [english]
 + [extensibility /ɪk,stɛnsə'bɪləti/](#v) n. 展开性；可延长性
 + [vertex /'vɜːteks/](#v) n. 顶点；[昆] 头顶；[天] 天顶
 + [disruptor /dɪsˈrʌptə/](#v) n. 破坏者，分裂者
++ [variants /'veərɪənt/](#v) n. [计] 变体；变异型（variant的复数）
++ [interior /ɪn'tɪɜːrɪə/](#v) n. 内部；本质 adj. 内部的；国内的；本质的
++ [emphasis /'emfəsɪs/](#v) n. 重点；强调；加强语气
++ [rational /'ræʃ(ə)n(ə)l/](#v) adj. 合理的；理性的 n. 有理数
++ [ratio /'reɪʃɪəʊ/](#v) n. 比率，比例
++ [numerator /'njuːməreɪtə/](#v) n. 分子；计算者；计算器
++ [denominator /dɪ'nɒmɪneɪtə/](#v) n. [数] 分母；命名者；共同特征或共同性质；平均水平或标准
++ [trade-off /'treidɔf,-ɔ:f/](#v) n. 交换，交易；权衡；协定
++ [potential /pəˈtenʃl/](#v) n. 潜能；可能性；[电] 电势 adj. 潜在的；可能的；势的
