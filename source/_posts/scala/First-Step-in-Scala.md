@@ -1,4 +1,4 @@
-title: First Step in Scala
+title: Chapter2：First Step in Scala
 date: 2015-11-21 15:51:16
 tags: [Programming in Scala]
 categories: [Scala]
@@ -29,11 +29,23 @@ def max2(x: Int, y: Int) = {
 def max3(x: Int, y: Int) = if (x > y) x else y
 ```
 
++ style-4
+```scala
+//only side effect(return Unit),leave off the result type and the equals sign, and enclose the body of the method in curly braces.
+def print(x: Int) { printlin(x) }
+```
+
 `Unit`:A result type of Unit indicates the function returns no interesting value. Scala’s Unit type is similar to Java’s void type, and in fact every void-returning method in Java is mapped to a Unit-returning method in Scala.
 
 ```scala
 scala> def greet() = println("Hello, world!")
 greet: ()Unit
+```
+**NOTE:**One puzzler to watch out for is that whenever you leave off the equals sign before the body of a function, its result type will definitely be Unit.This is true no matter what the body contains, because the Scala compiler can convert any type to Unit. 
+
+```scala
+scala> def f(): Unit = "this String gets lost"
+f: ()Unit
 ```
 <!--more-->
 ### Write some Scala scripts

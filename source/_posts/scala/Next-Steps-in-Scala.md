@@ -1,4 +1,4 @@
-title: Next Steps in Scala
+title: Chapter3：Next Steps in Scala
 date: 2015-11-21 17:24:09
 tags: [Programming in Scala]
 categories: [Scala]

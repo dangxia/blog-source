@@ -1,4 +1,4 @@
-title: Basic Types and Operations
+title: Chapter5：Basic Types and Operations
 date: 2015-12-06 11:21:24
 tags: [Programming in Scala]
 categories: [Scala]

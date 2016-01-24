@@ -1,4 +1,4 @@
-title: Functional Objects
+title: Chapter6：Functional Objects
 date: 2015-12-06 15:44:29
 tags: [Programming in Scala]
 categories: [Scala]
