@@ -1,4 +1,4 @@
-title: English-Words-20160102
+title: English-Words-20160123
 date: 2016-01-23 09:35:21
 category: [english]
 ---
@@ -67,3 +67,10 @@ category: [english]
 + [superfluous /suː'pɜːflʊəs; sjuː-/](#v) adj. 多余的；不必要的；奢侈的
 + [signature /'sɪgnətʃə/](#v) n. 署名；签名；信号
 + [perceptible /pə'septɪb(ə)l/](#v) adj. 可察觉的；可感知的；看得见的
++ [multiplication /,mʌltɪplɪ'keɪʃ(ə)n/](#v) n. [数] 乘法；增加
++ [precedence /'presɪd(ə)ns; prɪ'siːd(ə)ns/](#v) n. 优先；居先
++ [evaluation /ɪˌvæljuˈeɪʃn/](#v) n. 评价；[审计] 评估；估价；求值
++ [clarify /'klærɪfaɪ/](#v) vt. 澄清；阐明; vi. 得到澄清；变得明晰；得到净化
++ [allude /ə'l(j)uːd/](#v) vi. 暗指，转弯抹角地说到；略为提及，顺便提到
++ [comparison /kəm'pærɪs(ə)n/](#v) n. 比较；对照；比喻；比较关系
++ [disgust /dɪs'gʌst/](#v) n. 厌恶，嫌恶; vt. 使厌恶；使作呕

@@ -89,6 +89,7 @@ x *= y + 1 //x *= (y + 1)
 ```
 + associativity
 
+No matter what associativity an operator has, however, its operands are always evaluated left to right
 If the methods end in ‘:’, they are grouped right to left; otherwise, they are grouped left to right. For example,`a ::: b ::: c` is treated as `a ::: (b ::: c)`. But `a * b * c`, by contrast, is treated as `(a * b) * c`.
 
 ### Rich wrappers
